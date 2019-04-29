@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
-##Instll Dependencies 
+## Instll Dependencies 
 Run `npm install ` command.
 
 ## Development server
